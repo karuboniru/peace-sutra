@@ -9,7 +9,7 @@ def main():
     out_buffer=''
     for s in str_split:
         if s == '':
-            break
+            continue
         out_buffer = out_buffer+s+'平安 '
     if (len(sys.argv) == 3):
         file = open(sys.argv[2], 'w+')

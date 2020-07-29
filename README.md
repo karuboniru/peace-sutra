@@ -9,3 +9,5 @@ python peacefulize.py imput output  # 平安经输出到 output
 input 内容是名词, 使用`;`, `,`, ` `, `\n` 隔开
 
 **我也能写书了**
+
+经文见发布页, _GitHub 平安_
